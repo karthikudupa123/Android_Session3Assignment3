@@ -1,0 +1,4 @@
+Both string and int variables are just declared and not initialized. So default value of string i.e null is printed and default value of int i.e 0 is printed.
+
+Therefore option D
+The program prints pnt is null 0 0.
